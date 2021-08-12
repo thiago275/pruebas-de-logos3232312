@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelid"-1" name= "ARG:Locomotion" group="Argentina" logo="https://pbs.twimg.com/profile_images/641717810/4_400x400.png" tvg-country="ARG", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF.-1,Magic Kids
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
+
+#EXTINF:-1,Paka Paka 
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1937929753.m3u8
+
+
+#EXTINF:-1,Nick Clasic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+
+#EXTINF:-1,Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,GenTV
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telefe Rosarios
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,TELEFE TRUCHO
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+
+
+#EXTINF:-1,Retro Play
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+
+#EXTINF:-1,El Chavo 24/7
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w276108685.m3u8
+
+
+#EXTINF:-1,Paramount Network
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,IP Periodismo
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,NET TV
+https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,C5TV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Renwind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,9 LINK
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1, Azahares Radio Multimedia | AR
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,CANAL 79 Mar del Plata
+https://5f6e1fe8f2d2e.streamlock.net:443/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Fenix
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telecreativa
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Retro Radio Musica
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Zapping Music 
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,SpaceToons
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+
+#EXTINF:-1,
